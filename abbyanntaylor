@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Abby Ann Taylor - Outcall Booking Services</title>
+    <style>
+        /* Styles remain unchanged for brevity; you can modify them as needed */
+        /* ... */
+    </style>
+</head>
+<body>
+    <h1>Abby Ann Taylor</h1>
+    <h2>Outcall Booking Services</h2>
+    <p>Welcome to my personal webpage. I provide outcall booking services for various occasions.</p>
+    <p>Contact me for inquiries or bookings:</p>
+    <p>Email: <a href="mailto:your.email@example.com">your.email@example.com</a></p>
+
+    <!-- Additional Information Section -->
+    <section>
+        <h2>About Me</h2>
+        <p>Hi, I'm Abby Ann Taylor, your go-to for exceptional outcall booking services. With a passion for creating memorable experiences, I specialize in...</p>
+        <!-- Add more details about your services or background as needed -->
+
+        <h2>Availability</h2>
+        <p>I am available for bookings on weekdays and weekends. Please check my schedule for specific availability.</p>
+        <!-- Add your availability details here -->
+
+        <h2>Follow Me</h2>
+        <p>Stay connected for updates and special offers:</p>
+        <p>
+            <a href="https://www.instagram.com/abbyanntaylor" target="_blank">Instagram</a> |
+            <a href="https://twitter.com/abbyanntaylor" target="_blank">Twitter</a>
+        </p>
+        <!-- Add links to your social media profiles -->
+
+        <!-- Feel free to add more sections as needed -->
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <p>&copy; 2023 Abby Ann Taylor. All rights reserved.</p>
+    </footer>
+</body>
+</html>
